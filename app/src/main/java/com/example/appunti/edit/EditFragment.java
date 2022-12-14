@@ -70,6 +70,7 @@ public class EditFragment extends Fragment implements EditContract.View, MyOnNew
         mPresenter.start();
     }
 
+    //nuova nota
     @Override
     public void onNewNote(Nota nota) {
         nota.setText(editText.getText().toString());
