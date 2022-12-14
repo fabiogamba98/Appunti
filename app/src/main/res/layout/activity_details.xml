@@ -72,6 +72,6 @@
         android:layout_marginEnd="@dimen/fab_margin"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="right|bottom"
-        app:srcCompat="@drawable/ic_edit" />
+        app:srcCompat="@drawable/ic_edit"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
