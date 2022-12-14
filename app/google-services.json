@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568659952610",
+    "firebase_url": "https://appunti-4bd4c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appunti-4bd4c",
+    "storage_bucket": "appunti-4bd4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568659952610:android:af204a0ec95055398cefbb",
+        "android_client_info": {
+          "package_name": "com.example.appunti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568659952610-mhj5p9i4cifefeunuvcld3otq3heonrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKiANCb9vd0VRDUXqxVBicivXnqWVx8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568659952610-mhj5p9i4cifefeunuvcld3otq3heonrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
